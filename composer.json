@@ -1,5 +1,5 @@
 {
-    "name": "symfony/yaml",
+    "name": "ktomk/symfony-yaml",
     "type": "library",
     "description": "Symfony Yaml Component",
     "keywords": [],
